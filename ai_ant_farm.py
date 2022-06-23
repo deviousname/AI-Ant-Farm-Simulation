@@ -1,3 +1,4 @@
+#made deviousname with OpenAI Playground using this prompt structure (and some tuned Playground parameters):
 """
 1. Create an Ant Farm simulator with Python
 2. Create a new Class which generates a Queen Ant with random genetic traits.
